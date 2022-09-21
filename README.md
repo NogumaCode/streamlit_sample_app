@@ -1,2 +1,4 @@
 # streamlit_sample_app
 Sample artificial intelligence application using streamlit
+
+Streamlitのフレームワークと画像認識を使用したサンプルAPP
